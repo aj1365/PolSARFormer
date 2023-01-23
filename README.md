@@ -7,3 +7,7 @@ A. Jamali, S. K. Roy, A. Bhattacharya and P. Ghamisi, "Local Window Attention Tr
 https://doi.org/10.1109/LGRS.2023.3239263
 
 ![PolSARFormer](https://user-images.githubusercontent.com/22929034/214159582-1ca62301-6e91-4bee-a36c-c35ecad2d2b6.png)
+
+For the LWA block, we used the codes from Neighborhood Attention Transformer found:
+
+https://github.com/leondgarse/keras_cv_attention_models/tree/main/keras_cv_attention_models/nat
