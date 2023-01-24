@@ -10,7 +10,7 @@
 
 ___________
 
-## This code is for the paper "Local Window Attention Transformer for Polarimetric SAR Image Classification" that is published in the IEEE Geoscience and Remote Sensing Letters journal.
+This code is for the paper "Local Window Attention Transformer for Polarimetric SAR Image Classification" that is published in the IEEE Geoscience and Remote Sensing Letters journal.
 
 
 ---------------------
@@ -36,6 +36,4 @@ Citation
 Acknowledgement
 ---------------------
 
-For the LWA block, we used the codes from Neighborhood Attention Transformer as can be seen in:
-
-https://github.com/SHI-Labs/Neighborhood-Attention-Transformer
+Part of the local window attention (LWA) block is implementated from [Neighborhood Attention Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer). 
