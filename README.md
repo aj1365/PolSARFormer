@@ -40,4 +40,4 @@ Part of the local window attention (LWA) block is implementated from [Neighborho
 
 ## License
 
-Copyright (c) 2019 Gopal Krishna. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2023 Ali Jamali. Released under the MIT License. See [LICENSE](LICENSE) for details.
