@@ -17,7 +17,7 @@ This code is for the paper A. Jamali, S. K. Roy, A. Bhattacharya and P. Ghamisi,
 ### Dataset
 
 Flevoland dataset: NASA/JPL AIRSAR recorded the data of Flevoland, situated in the Netherlands, on August 16, 1989. 
-The Flevoland image is 750 by 1024 pixels in size.
+The Flevoland image is $750\times1024$ pixels in size.
 
 
 San Francisco dataset: The San Francisco illustrates a NASA/JPL AIRSAR L-band image of the San Francisco area. 
