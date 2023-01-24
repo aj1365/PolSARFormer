@@ -17,7 +17,7 @@ This code is for the paper "Local Window Attention Transformer for Polarimetric 
 ### Dataset
 
 
-A. Jamali, S. K. Roy, A. Bhattacharya and P. Ghamisi, "Local Window Attention Transformer for Polarimetric SAR Image Classification," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2023.3239263.
+A. Jamali, S. K. Roy, A. Bhattacharya and P. Ghamisi, "Local Window Attention Transformer for Polarimetric SAR Image Classification," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2023.3239263 [https://ieeexplore.ieee.org/document/10024822].
 
 
 Citation
@@ -29,7 +29,7 @@ Citation
       title={Local Window Attention Transformer for Polarimetric SAR Image Classification},
       author={Jamali, Ali and Roy, Swalpa Kumar and Bhattacharya, Avik and Ghamisi, Pedram},
       journal={IEEE Geoscience and Remote Sensing Letters},
-      doi = {https://doi.org/10.1109/LGRS.2023.3239263},
+      doi={https://doi.org/10.1109/LGRS.2023.3239263},
       year={2023}  
     }
 
