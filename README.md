@@ -5,7 +5,7 @@
 [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Swalpa Kumar Roy](https://swalpa.github.io), [Avik Bhattacharya](http://www.mrslab.in/Avik/), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
 
 
-![PolSARFormer](https://user-images.githubusercontent.com/22929034/214159582-1ca62301-6e91-4bee-a36c-c35ecad2d2b6.png)
+![Paper](https://user-images.githubusercontent.com/22929034/214233782-b553b556-9c2f-4e72-8a0e-ccf2737d112b.png)
 
 
 ___________
