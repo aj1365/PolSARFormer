@@ -23,7 +23,7 @@ A. Jamali, S. K. Roy, A. Bhattacharya and P. Ghamisi, "Local Window Attention Tr
 Citation
 ---------------------
 
-**Please kindly cite the papers if this code is useful and helpful for your research.**
+**Please kindly cite the paper if this code is useful and helpful for your research.**
 
     @article{jamali2023polsarformer,
       title={Local Window Attention Transformer for Polarimetric SAR Image Classification},
@@ -37,3 +37,7 @@ Acknowledgement
 ---------------------
 
 Part of the local window attention (LWA) block is implementated from [Neighborhood Attention Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer). 
+
+## License
+
+Copyright (c) 2019 Gopal Krishna. Released under the MIT License. See [LICENSE](LICENSE) for details.
