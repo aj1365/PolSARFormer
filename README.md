@@ -31,13 +31,21 @@ Citation
 **Please kindly cite the paper if this code is useful and helpful for your research.**
 
 @article{10024822,
+
   author={Jamali, Ali and Roy, Swalpa Kumar and Bhattacharya, Avik and Ghamisi, Pedram},
+  
   journal={IEEE Geoscience and Remote Sensing Letters}, 
+  
   title={Local Window Attention Transformer for Polarimetric SAR Image Classification}, 
+  
   year={2023},
+  
   volume={20},
+  
   number={},
+  
   pages={1-5},
+  
   doi={10.1109/LGRS.2023.3239263}}
 
 Acknowledgement
