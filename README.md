@@ -30,11 +30,14 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-    @article{roy2022multimodal,
-      title={Multimodal Fusion Transformer for Remote Sensing Image Classification},
-      author={Roy, Swalpa Kumar and Deria, Ankur and Hong, Danfeng and Rasti, Behnood and Plazza, Antonio and Chanussot, Jocelyn},
-      journal={IEEE Transactions on Geoscience and Remote Sensing},
-      year={2023}  
+    @article{jamali2023local,
+        title={Local window attention transformer for polarimetric SAR image classification},
+        author={Jamali, Ali and Roy, Swalpa Kumar and Bhattacharya, Avik and Ghamisi, Pedram},
+        journal={IEEE Geoscience and Remote Sensing Letters},
+        volume={20},
+        pages={1--5},
+        year={2023},
+        publisher={IEEE}
     }
 
 Acknowledgement
