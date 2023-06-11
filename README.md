@@ -30,15 +30,15 @@ Citation
 
 **Please kindly cite the paper if this code is useful and helpful for your research.**
 
-@article{jamali2023local,
-  title={Local window attention transformer for polarimetric SAR image classification},
-  author={Jamali, Ali and Roy, Swalpa Kumar and Bhattacharya, Avik and Ghamisi, Pedram},
-  journal={IEEE Geoscience and Remote Sensing Letters},
-  volume={20},
-  pages={1--5},
-  year={2023},
-  publisher={IEEE}
-}
+  @article{jamali2023local,
+    title={Local window attention transformer for polarimetric SAR image classification},
+    author={Jamali, Ali and Roy, Swalpa Kumar and Bhattacharya, Avik and Ghamisi, Pedram},
+    journal={IEEE Geoscience and Remote Sensing Letters},
+    volume={20},
+    pages={1--5},
+    year={2023},
+    publisher={IEEE}
+  }
 
 Acknowledgement
 ---------------------
