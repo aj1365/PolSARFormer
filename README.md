@@ -23,6 +23,10 @@ The Flevoland image is $750\times1024$ pixels in size.
 San Francisco dataset: The San Francisco illustrates a NASA/JPL AIRSAR L-band image of the San Francisco area. 
 The resolution of the data of the San Francisco is $900\times1024$ pixels.
 
+### Appreciation from Geoscience and Remote Sensing Society (GRSS)
+
+<img src="./image.jpg" width="700" height="550"/>
+
 
 
 Citation
