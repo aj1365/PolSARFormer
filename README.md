@@ -25,7 +25,7 @@ The resolution of the data of the San Francisco is $900\times1024$ pixels.
 
 ### Appreciation from Geoscience and Remote Sensing Society (GRSS)
 
-<img src="./image.jpg" width="700" height="550"/>
+<img src="./image.jpeg" width="700" height="550"/>
 
 
 
